@@ -9,6 +9,6 @@
       2)data.csv - reviews if run is successfull
 
 
-## Please insall required packages first and run >python reviews.py
+## Please install required packages first and run >python reviews.py
   pip install -r requirements.txt
   NOTE: App will download and install the required ChromeDriver on first run.
